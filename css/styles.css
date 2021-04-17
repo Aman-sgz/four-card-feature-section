@@ -34,7 +34,7 @@ body {
 }
 
 .header__subtitle {
-    font-size: 1.5rem;
+    font-size: 1.3rem;
     color: var(--bold-text);
     font-weight: 600;
     margin-top: .8rem;
@@ -42,7 +42,7 @@ body {
 
 .header__text {
     color: var(--light-text);
-    width: 305px;
+    width: 312px;
     margin-left: auto;
     margin-right: auto;
 }
@@ -91,6 +91,7 @@ body {
     font-weight: bold;
     color: var(--bold-text);
 }
+
 .card__text {
     color: var(--light-text);
 }
@@ -99,7 +100,6 @@ body {
 /* use after to load icons */
 .card:first-child::after {
     --icon: url(/images/icon-supervisor.svg);
-    --border-color: var(--cyan);
 }
 
 .card:nth-child(2)::after {
@@ -119,7 +119,7 @@ body {
     content: '';
     position: absolute;
     left: 0;
-    top: 0;
+    top: 20px;
     width: 100%;
     height: 200px;
     background-image: var(--icon);

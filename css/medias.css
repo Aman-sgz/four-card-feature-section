@@ -13,11 +13,11 @@
   .header__title {
     font-size: 2rem;
   }
-  
-  .header__text {
-    width: 500px;
-  }
 
+  .header__text {
+    width: 533px;
+  }
+  
   .cards {
     justify-content: center;
     grid-template-columns: repeat(3, 350px);

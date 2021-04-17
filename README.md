@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="">
+    <a href="https://four-card-feature-section-six-flax.vercel.app/">
       Live site
     </a>
     <span> | </span>
@@ -38,9 +38,9 @@
 ## Overview
 - Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
-- You can see a live site at [Four Card Feature Section]()
+- You can see a live site at [Four Card Feature Section](https://four-card-feature-section-six-flax.vercel.app/)
 
-![preview screenshot]()
+![preview screenshot](/images/screenshot.png)
 
 
 
